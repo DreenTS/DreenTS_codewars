@@ -33,8 +33,6 @@ the observed one and also the results, must be strings, because of potentially l
 We already prepared some test cases for you.
 
 Detective, we are counting on you!
-
-
 """
 
 from itertools import product

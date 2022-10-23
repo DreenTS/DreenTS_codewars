@@ -25,7 +25,6 @@ expand("(-2a-4)^0")    # returns "1"
 expand("(-12t+43)^2")  # returns "144t^2-1032t+1849"
 expand("(r+0)^203")    # returns "r^203"
 expand("(-x-1)^2")     # returns "x^2+2x+1"
-
 """
 
 
