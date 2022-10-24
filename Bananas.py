@@ -1,4 +1,5 @@
 """
+Bananas
 LINK: https://www.codewars.com/kata/5917fbed9f4056205a00001e/
 
 Given a string of letters a, b, n how many different ways can you make the word "banana" by crossing out

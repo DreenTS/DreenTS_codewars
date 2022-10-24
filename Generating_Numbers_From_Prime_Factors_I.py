@@ -1,4 +1,5 @@
 """
+Generating Numbers From Prime Factors I
 LINK: https://www.codewars.com/kata/58f9f9f58b33d1b9cf00019d/
 
 Given a list of prime factors, primesL, and an integer, limit, try to generate in order, all the numbers less than

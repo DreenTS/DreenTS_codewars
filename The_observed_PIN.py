@@ -1,4 +1,5 @@
 """
+The observed PIN
 LINK = https://www.codewars.com/kata/5263c6999e0f40dee200059d/
 
 Alright, detective, one of our colleagues successfully observed our target person, Robby the robber. 

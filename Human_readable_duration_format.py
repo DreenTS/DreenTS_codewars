@@ -1,4 +1,5 @@
 """
+Huma readable duration format
 LINK: https://www.codewars.com/kata/52742f58faf5485cae000b9a/
 
 Your task in order to complete this Kata is to write a function which formats a duration,
